@@ -1,10 +1,10 @@
 # Hi 👋, I'm Umesh Nath
 
-### BCA Student | Aspiring Full Stack Developer
+### 🚀 BCA Student | Aspiring Full Stack Developer
 
-🎓 Currently pursuing BCA at Sigma University
+🎓 Pursuing BCA at Sigma University, Vadodara
 
-💻 Learning:
+💻 Currently Learning
 - HTML
 - CSS
 - JavaScript
@@ -13,29 +13,32 @@
 - MySQL
 - Git & GitHub
 
-🌱 Currently Working On:
+🌱 Currently Working On
 - Web Development Projects
 - React Applications
-- Database Projects
+- Database Management Projects
+
+🎯 Career Goal
+- Secure a Software Development Internship
+- Become a Full Stack Developer
+- Contribute to Open Source Projects
 
 📍 Vadodara, Gujarat, India
 
-## Skills
+## 🛠 Tech Stack
 
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: PHP
-- Database: MySQL
-- Tools: Git, GitHub, VS Code
+HTML | CSS | JavaScript | React | PHP | MySQL | Git | GitHub
 
-## 2026 Goals
+## 📈 GitHub Stats
 
-- Build 10+ Projects
-- Get a Software Internship
-- Learn Full Stack Development
-- Contribute to Open Source
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umeshnath23&show_icons=true)
 
-## Connect
+## 🔥 Streak Stats
 
-- GitHub: github.com/umeshnath23
+![GitHub Streak](https://streak-stats.demolab.com?user=umeshnath23)
 
-⭐ Always learning and building new things.
+## 📫 Connect With Me
+
+GitHub: https://github.com/umeshnath23
+
+⭐ Always learning, building, and improving.
