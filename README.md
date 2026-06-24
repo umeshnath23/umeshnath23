@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Umesh Nath
 
-<!--
-**umeshnath23/umeshnath23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 Currently pursuing BCA at Sigma University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning:
+- HTML
+- CSS
+- JavaScript
+- React
+- PHP
+- MySQL
+- Git & GitHub
+
+🌱 Currently Working On:
+- Web Development Projects
+- React Applications
+- Database Projects
+
+📍 Vadodara, Gujarat, India
+
+## Skills
+
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: PHP
+- Database: MySQL
+- Tools: Git, GitHub, VS Code
+
+## 2026 Goals
+
+- Build 10+ Projects
+- Get a Software Internship
+- Learn Full Stack Development
+- Contribute to Open Source
+
+## Connect
+
+- GitHub: github.com/umeshnath23
+
+⭐ Always learning and building new things.
